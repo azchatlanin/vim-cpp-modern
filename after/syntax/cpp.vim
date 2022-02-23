@@ -181,7 +181,7 @@ hi def link cppSTLconstant     Constant
 hi def link cppSTLnamespace    Constant
 hi def link cppSTLexception    Type
 hi def link cppSTLiterator     Type
-hi def link cppSTLtype         Type
+"hi def link cppSTLtype         Type
 hi def link cppSTLtypedef      Typedef
 hi def link cppSTLenum         Typedef
 hi def link cppSTLios          Function
